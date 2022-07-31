@@ -1,0 +1,7 @@
+page_object/HeaderOfPage.class
+page_object/RegistrationPage.class
+RegistrationRandomUser.class
+page_object/PersonAccountPage.class
+page_object/MainPage.class
+page_object/LoginPage.class
+page_object/ResetPasswordPage.class
