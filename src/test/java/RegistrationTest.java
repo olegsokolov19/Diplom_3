@@ -5,7 +5,6 @@ import org.apache.commons.lang3.RandomStringUtils;
 import org.junit.Before;
 import org.junit.Test;
 import page_object.LoginPage;
-import page_object.PersonAccountPage;
 import page_object.RegistrationPage;
 
 import static com.codeborne.selenide.Selenide.open;
@@ -14,7 +13,6 @@ import static org.junit.Assert.*;
 
 public class RegistrationTest {
     RegistrationPage registrationPage;
-    LoginPage loginPage;
 
     @Before
     public void setUp() {
